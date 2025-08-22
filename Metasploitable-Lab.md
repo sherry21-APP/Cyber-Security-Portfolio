@@ -1,6 +1,7 @@
 # Metasploitable Lab
-In this lab I will be using a Kali Linux machine to carry out Basic penetration testing on an intentional vulnerable machine.
-The link is here
+In this lab I will be using a Kali Linux machine to carry out Basic penetration testing on a virtual machine which is designed to be deliberately vulnerable It is called Metasploitable 2.
+This task is carried out by using Virutal Box which allows you to install many virutal operating systems.
+The link is here for Metasploitable 2
 https://www.vulnhub.com/entry/metasploitable-2,29/
 
 It should take you to this site.
