@@ -4,12 +4,16 @@ This task is carried out by using Virutal Box which allows you to install many v
 The link is here for Metasploitable 2
 https://www.vulnhub.com/entry/metasploitable-2,29/
 
+
 It should take you to this site.
 
 <img width="1901" height="762" alt="Pic1" src="https://github.com/user-attachments/assets/9e48dd7b-38a0-43fe-b570-7c85fcfa7431" />
 
 
-
+## Lab Setup
+- **Target** Metasploitable 2 machine
+- **Attacker** Kali linux machine
+- **Network** NAT or Local host
 
 
 
